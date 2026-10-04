@@ -1,1 +1,2 @@
 # data-analytics-coderhouse-entrega5
+En mi base de datos M3, agregue la tabla territorios, que va a ser necesaria para responder consultas de mi modelo mas adelante.
